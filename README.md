@@ -8,11 +8,11 @@ This is a simple front-end clone of YouTube built using HTML and CSS. The layout
 - **CSS3**
 
 ## 📁 Project Structure
-├── main.html # Main HTML file
-├── general.css # Global styles and resets
-├── header.css # Styles for the YouTube-like header
-├── sidebar.css # Styles for the left-hand sidebar navigation
-├── video.css # Styles for the video previews
+- main.html # Main HTML file
+- general.css # Global styles and resets
+- header.css # Styles for the YouTube-like header
+- sidebar.css # Styles for the left-hand sidebar navigation
+- video.css # Styles for the video previews
 
 ## 🚀 Features
 
